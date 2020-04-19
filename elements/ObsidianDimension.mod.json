@@ -1,0 +1,68 @@
+{
+  "_fv": 6,
+  "_type": "dimension",
+  "definition": {
+    "portalFrame": {
+      "value": "CUSTOM:SuperchargedObsidian"
+    },
+    "portalParticles": {
+      "value": "PORTAL"
+    },
+    "portalLuminance": 1.0,
+    "portalSound": {
+      "value": "block.portal.ambient"
+    },
+    "igniterName": "Obsidian Dimension Portal Igniter",
+    "igniterTab": {
+      "value": "CUSTOM:Obsidian"
+    },
+    "texture": "dry_stick",
+    "portalTexture": "portal_obsidian",
+    "enablePortal": true,
+    "biomesInDimension": [
+      {
+        "value": "CUSTOM:PrimordialOcean"
+      },
+      {
+        "value": "CUSTOM:ExtreamEarth"
+      },
+      {
+        "value": "ocean"
+      },
+      {
+        "value": "mountains"
+      }
+    ],
+    "worldGenType": "Normal world gen",
+    "mainFillerBlock": {
+      "value": "Blocks.OBSIDIAN"
+    },
+    "secondaryFillerBlock": {
+      "value": "Blocks.STONE#0"
+    },
+    "tertiaryFillerBlock": {
+      "value": "CUSTOM:SuperchargedObsidian"
+    },
+    "fluidBlock": {
+      "value": "CUSTOM:Liquidobsidian"
+    },
+    "airColor": {
+      "value": -13434829,
+      "falpha": 0.0
+    },
+    "canRespawnHere": true,
+    "hasFog": false,
+    "hasWeather": true,
+    "isDark": false,
+    "doesWaterVaporize": false,
+    "sleepResult": "BED_EXPLODES",
+    "hasSkyLight": true,
+    "imitateOverworldBehaviour": false,
+    "dimensionMusic": {
+      "value": "ambient.cave"
+    },
+    "onPlayerLeavesDimension": {
+      "name": "ObsidianDimensionPlayerLeavesDimension"
+    }
+  }
+}

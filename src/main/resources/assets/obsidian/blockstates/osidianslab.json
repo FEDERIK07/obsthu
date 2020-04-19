@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=bottom,variant=default": {
+      "model": "obsidian:osidianslab"
+    },
+    "half=top,variant=default": {
+      "model": "obsidian:osidianslab_top"
+    }
+  }
+}

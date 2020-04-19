@@ -1,0 +1,31 @@
+{
+  "variants": {
+    "normal": {
+      "model": "thunder:thunderblock"
+    },
+    "facing=south": {
+      "model": "thunder:thunderblock"
+    },
+    "facing=north": {
+      "model": "thunder:thunderblock"
+    },
+    "facing=east": {
+      "model": "thunder:thunderblock",
+      "x": 90
+    },
+    "facing=west": {
+      "model": "thunder:thunderblock",
+      "x": 90
+    },
+    "facing=up": {
+      "model": "thunder:thunderblock",
+      "x": 90,
+      "y": 90
+    },
+    "facing=down": {
+      "model": "thunder:thunderblock",
+      "x": 90,
+      "y": 90
+    }
+  }
+}

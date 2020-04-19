@@ -1,0 +1,16 @@
+{
+  "group": "lava",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "obsidian:drystick"
+    },
+    {
+      "item": "obsidian:strangelavaitem"
+    }
+  ],
+  "result": {
+    "item": "obsidian:lavasword",
+    "count": 1
+  }
+}

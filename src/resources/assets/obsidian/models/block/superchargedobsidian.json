@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "obsidian:blocks/12703632-pack_l",
+    "up": "obsidian:blocks/12703632-pack_l",
+    "north": "obsidian:blocks/12703632-pack_l",
+    "east": "obsidian:blocks/12703632-pack_l",
+    "south": "obsidian:blocks/12703632-pack_l",
+    "west": "obsidian:blocks/12703632-pack_l",
+    "particle": "obsidian:blocks/12703632-pack_l"
+  }
+}

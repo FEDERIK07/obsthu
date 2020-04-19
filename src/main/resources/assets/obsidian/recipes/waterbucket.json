@@ -1,0 +1,13 @@
+{
+  "group": "water",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:water_bucket"
+    }
+  ],
+  "result": {
+    "item": "obsidian:watered",
+    "count": 1
+  }
+}

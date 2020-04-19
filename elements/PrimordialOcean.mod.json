@@ -1,0 +1,72 @@
+{
+  "_fv": 6,
+  "_type": "biome",
+  "definition": {
+    "name": "Primordial Ocean",
+    "groundBlock": {
+      "value": "Blocks.WATER"
+    },
+    "undergroundBlock": {
+      "value": "Blocks.WATER"
+    },
+    "generateLakes": true,
+    "treeType": 1,
+    "vanillaTreeType": "Default",
+    "minHeight": 7,
+    "spawnVines": false,
+    "treeVines": {
+      "value": "Blocks.BUBBLE_COLUMN"
+    },
+    "treeStem": {
+      "value": "Blocks.WATER"
+    },
+    "treeBranch": {
+      "value": "Blocks.WATER"
+    },
+    "treeFruits": {
+      "value": "Blocks.WATER"
+    },
+    "customColors": true,
+    "airColor": {
+      "value": -13369345,
+      "falpha": 0.0
+    },
+    "grassColor": {
+      "value": -16737793,
+      "falpha": 0.0
+    },
+    "waterColor": {
+      "value": -16777114,
+      "falpha": 0.0
+    },
+    "treesPerChunk": 3,
+    "grassPerChunk": 0,
+    "flowersPerChunk": 0,
+    "mushroomsPerChunk": 0,
+    "bigMushroomsChunk": 0,
+    "sandPathcesPerChunk": 0,
+    "gravelPatchesPerChunk": 0,
+    "reedsPerChunk": 0,
+    "cactiPerChunk": 0,
+    "deadBushesPerChunk": 0,
+    "rainingPossibility": 1.0,
+    "temperature": 0.39999999999999997,
+    "baseHeight": -2.0,
+    "heightVariation": 0.2,
+    "spawnBiome": true,
+    "biomeWeight": 10,
+    "biomeType": "WARM",
+    "biomeCategory": "OCEAN",
+    "parent": {
+      "value": "ocean"
+    },
+    "biomeDictionaryTypes": [
+      "OCEAN"
+    ],
+    "spawnList": [
+      {
+        "value": "EntityElderGuardian"
+      }
+    ]
+  }
+}

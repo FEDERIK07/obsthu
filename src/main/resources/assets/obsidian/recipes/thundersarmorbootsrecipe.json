@@ -1,0 +1,26 @@
+{
+  "group": "obsidian",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "obsidian:thundershard"
+    },
+    "2": {
+      "item": "obsidian:thundershard"
+    },
+    "3": {
+      "item": "obsidian:thundershard"
+    },
+    "5": {
+      "item": "obsidian:thundershard"
+    }
+  },
+  "result": {
+    "item": "obsidian:thundersarmorboots",
+    "count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "obsidian:blocks/overlay",
+    "up": "obsidian:blocks/overlay",
+    "north": "obsidian:blocks/overlay",
+    "east": "obsidian:blocks/overlay",
+    "south": "obsidian:blocks/overlay",
+    "west": "obsidian:blocks/overlay",
+    "particle": "obsidian:blocks/overlay"
+  }
+}

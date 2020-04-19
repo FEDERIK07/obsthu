@@ -1,0 +1,54 @@
+{
+  "_fv": 6,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "water_elmet",
+    "enableBody": true,
+    "textureBody": "water_body",
+    "enableLeggings": true,
+    "textureLeggings": "water_leggins",
+    "enableBoots": true,
+    "textureBoots": "water_boots",
+    "onHelmetTick": {
+      "name": "WaterArmorHelmetTickEvent"
+    },
+    "creativeTab": {
+      "value": "CUSTOM:Water"
+    },
+    "armorTextureFile": "water",
+    "helmetName": "Water Armor Helmet",
+    "bodyName": "Water Armor Body",
+    "leggingsName": "Water Armor Leggings",
+    "bootsName": "Water Armor Boots",
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 26,
+    "damageValueHelmet": 4,
+    "damageValueBody": 7,
+    "damageValueLeggings": 6,
+    "damageValueBoots": 4,
+    "enchantability": 10,
+    "toughness": 1.0,
+    "equipSound": {
+      "value": "block.water.ambient"
+    },
+    "repairItems": [
+      {
+        "value": "Items.WATER_BUCKET"
+      }
+    ]
+  }
+}

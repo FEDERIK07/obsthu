@@ -1,0 +1,42 @@
+{
+  "group": "obsidian",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:obsidian"
+    },
+    "1": {
+      "item": "obsidian:obsidianingot"
+    },
+    "2": {
+      "item": "minecraft:obsidian"
+    },
+    "3": {
+      "item": "obsidian:obsidianingot"
+    },
+    "4": {
+      "item": "obsidian:brokenobsidiansword"
+    },
+    "5": {
+      "item": "obsidian:obsidianingot"
+    },
+    "6": {
+      "item": "minecraft:obsidian"
+    },
+    "7": {
+      "item": "obsidian:obsidianingot"
+    },
+    "8": {
+      "item": "minecraft:obsidian"
+    }
+  },
+  "result": {
+    "item": "obsidian:obsidiansword",
+    "count": 1
+  }
+}

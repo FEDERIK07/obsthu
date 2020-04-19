@@ -1,0 +1,26 @@
+{
+  "_fv": 6,
+  "_type": "item",
+  "definition": {
+    "renderType": 0,
+    "texture": "pickaxe_piece_of_water",
+    "customModelName": "Normal",
+    "name": "Pickaxepieceofwater",
+    "creativeTab": {
+      "value": "CUSTOM:Water"
+    },
+    "stackSize": 64,
+    "enchantability": 0,
+    "useDuration": 0,
+    "toolType": 1.0,
+    "damageCount": 0,
+    "destroyAnyBlock": false,
+    "stayInGridWhenCrafting": false,
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "specialInfo": [
+      "It is a piece of the water pickaxe"
+    ],
+    "hasGlow": false
+  }
+}

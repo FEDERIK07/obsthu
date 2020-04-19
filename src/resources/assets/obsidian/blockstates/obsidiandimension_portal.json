@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "obsidian:obsidiandimension_portal_ew"
+    },
+    "axis=x": {
+      "model": "obsidian:obsidiandimension_portal_ns"
+    },
+    "inventory": {
+      "model": "obsidian:obsidiandimension_portal_ns"
+    }
+  }
+}

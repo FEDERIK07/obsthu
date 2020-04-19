@@ -1,0 +1,47 @@
+{
+  "_fv": 6,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "thunders_head",
+    "enableBody": true,
+    "textureBody": "thunders_body",
+    "enableLeggings": true,
+    "textureLeggings": "thunders_leggings",
+    "enableBoots": true,
+    "textureBoots": "thunders_boots",
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "armorTextureFile": "thunders",
+    "helmetName": "Thunders Helmet",
+    "bodyName": "Thunders Chestplate",
+    "leggingsName": "Thunders Leggings",
+    "bootsName": "Thunders Boots",
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 105,
+    "damageValueHelmet": 14,
+    "damageValueBody": 35,
+    "damageValueLeggings": 42,
+    "damageValueBoots": 14,
+    "enchantability": 63,
+    "toughness": 0.0,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": []
+  }
+}

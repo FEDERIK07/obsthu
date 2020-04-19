@@ -1,0 +1,19 @@
+{
+  "group": "obsidian",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01"
+  ],
+  "key": {
+    "0": {
+      "item": "obsidian:drystick"
+    },
+    "1": {
+      "item": "obsidian:thundershard"
+    }
+  },
+  "result": {
+    "item": "obsidian:obsidiandimension",
+    "count": 1
+  }
+}

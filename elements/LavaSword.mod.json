@@ -1,0 +1,27 @@
+{
+  "_fv": 6,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "lava_sword",
+    "customModelName": "Normal",
+    "name": "Lava Sword",
+    "creativeTab": {
+      "value": "CUSTOM:Lava"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 5,
+    "efficiency": 7.0,
+    "attackSpeed": 2.0,
+    "enchantability": 6,
+    "damageVsEntity": 5.0,
+    "usageCount": 500,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:StrangeLavaItem"
+      }
+    ]
+  }
+}

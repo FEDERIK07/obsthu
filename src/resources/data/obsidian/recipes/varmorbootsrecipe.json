@@ -1,0 +1,26 @@
+{
+  "group": "lava",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:lava_bucket"
+    },
+    "2": {
+      "item": "minecraft:lava_bucket"
+    },
+    "3": {
+      "item": "minecraft:lava_bucket"
+    },
+    "5": {
+      "item": "minecraft:lava_bucket"
+    }
+  },
+  "result": {
+    "item": "obsidian:lavaarmorboots",
+    "count": 1
+  }
+}

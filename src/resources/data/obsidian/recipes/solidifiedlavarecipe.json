@@ -1,0 +1,19 @@
+{
+  "group": "lava",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01"
+  ],
+  "key": {
+    "0": {
+      "item": "obsidian:laved"
+    },
+    "1": {
+      "item": "obsidian:laved"
+    }
+  },
+  "result": {
+    "item": "obsidian:solidifiedlava",
+    "count": 1
+  }
+}

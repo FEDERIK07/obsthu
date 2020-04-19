@@ -1,0 +1,33 @@
+{
+  "_fv": 6,
+  "_type": "item",
+  "definition": {
+    "renderType": 0,
+    "texture": "solidified_lava",
+    "customModelName": "Normal",
+    "name": "Solidified Lava",
+    "creativeTab": {
+      "value": "CUSTOM:Lava"
+    },
+    "stackSize": 47,
+    "enchantability": 1,
+    "useDuration": 10,
+    "toolType": 3.0,
+    "damageCount": 0,
+    "destroyAnyBlock": true,
+    "stayInGridWhenCrafting": true,
+    "enableMeleeDamage": true,
+    "damageVsEntity": 3.0,
+    "specialInfo": [],
+    "hasGlow": false,
+    "onRightClickedInAir": {
+      "name": "SolidifiedlavaRightClickedInAir"
+    },
+    "onRightClickedOnBlock": {
+      "name": "SolidifiedlavaRightClickedInAir"
+    },
+    "onCrafted": {
+      "name": "SolidifiedlavaItemIsCraftedsmelted"
+    }
+  }
+}

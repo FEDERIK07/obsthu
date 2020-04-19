@@ -1,0 +1,42 @@
+{
+  "group": "obsidian",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "obsidian:solidifiedlava"
+    },
+    "1": {
+      "item": "obsidian:obsidianingot"
+    },
+    "2": {
+      "item": "obsidian:solidifiedlava"
+    },
+    "3": {
+      "item": "obsidian:obsidianingot"
+    },
+    "4": {
+      "item": "minecraft:obsidian"
+    },
+    "5": {
+      "item": "obsidian:obsidianingot"
+    },
+    "6": {
+      "item": "obsidian:solidifiedlava"
+    },
+    "7": {
+      "item": "obsidian:obsidianingot"
+    },
+    "8": {
+      "item": "obsidian:solidifiedlava"
+    }
+  },
+  "result": {
+    "item": "obsidian:chest",
+    "count": 1
+  }
+}

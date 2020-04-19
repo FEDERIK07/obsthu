@@ -1,0 +1,27 @@
+{
+  "_fv": 6,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "water_sword",
+    "customModelName": "Normal",
+    "name": "Water Sword",
+    "creativeTab": {
+      "value": "CUSTOM:Water"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 2,
+    "efficiency": 5.0,
+    "attackSpeed": 2.0,
+    "enchantability": 3,
+    "damageVsEntity": 5.0,
+    "usageCount": 150,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "Items.WATER_BUCKET"
+      }
+    ]
+  }
+}

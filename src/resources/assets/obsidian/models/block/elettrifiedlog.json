@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "obsidian:blocks/electrified_log_",
+    "up": "obsidian:blocks/electrified_log_",
+    "north": "obsidian:blocks/electrified_log",
+    "east": "obsidian:blocks/electrified_log",
+    "south": "obsidian:blocks/electrified_log",
+    "west": "obsidian:blocks/electrified_log",
+    "particle": "obsidian:blocks/electrified_log_"
+  }
+}

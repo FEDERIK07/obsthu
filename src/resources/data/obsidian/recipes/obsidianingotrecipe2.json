@@ -1,0 +1,11 @@
+{
+  "group": "obsidian",
+  "type": "minecraft:blasting",
+  "experience": 1,
+  "ingredient": {
+    "item": "minecraft:obsidian"
+  },
+  "result": {
+    "item": "obsidian:obsidianingot"
+  }
+}

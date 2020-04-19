@@ -1,0 +1,27 @@
+{
+  "_fv": 6,
+  "_type": "item",
+  "definition": {
+    "renderType": 0,
+    "texture": "broken_obsidian_sword",
+    "customModelName": "Normal",
+    "name": "Broken Obsidian Sword",
+    "creativeTab": {
+      "value": "CUSTOM:Obsidian"
+    },
+    "stackSize": 8,
+    "enchantability": 2000,
+    "useDuration": 20000,
+    "toolType": 1.0,
+    "damageCount": 18000,
+    "destroyAnyBlock": true,
+    "stayInGridWhenCrafting": false,
+    "enableMeleeDamage": true,
+    "damageVsEntity": 20.0,
+    "specialInfo": [
+      "It is a broken sword",
+      "the end is very sharp"
+    ],
+    "hasGlow": true
+  }
+}

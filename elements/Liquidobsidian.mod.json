@@ -1,0 +1,19 @@
+{
+  "_fv": 6,
+  "_type": "fluid",
+  "definition": {
+    "name": "Liquidobsidian",
+    "textureStill": "obsidian",
+    "textureFlowing": "12703632-pack_l",
+    "luminosity": 0,
+    "density": 3000,
+    "viscosity": 3000,
+    "isGas": true,
+    "type": "LAVA",
+    "generateBucket": true,
+    "creativeTab": {
+      "value": "CUSTOM:Obsidian"
+    },
+    "spawnWorldTypes": []
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "variants": {
+    "normal": {
+      "model": "obsidian:elettrifiedlog"
+    },
+    "facing=south": {
+      "model": "obsidian:elettrifiedlog"
+    },
+    "facing=north": {
+      "model": "obsidian:elettrifiedlog"
+    },
+    "facing=east": {
+      "model": "obsidian:elettrifiedlog",
+      "x": 90
+    },
+    "facing=west": {
+      "model": "obsidian:elettrifiedlog",
+      "x": 90
+    },
+    "facing=up": {
+      "model": "obsidian:elettrifiedlog",
+      "x": 90,
+      "y": 90
+    },
+    "facing=down": {
+      "model": "obsidian:elettrifiedlog",
+      "x": 90,
+      "y": 90
+    }
+  }
+}

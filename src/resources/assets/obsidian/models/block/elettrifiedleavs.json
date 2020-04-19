@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "obsidian:blocks/electrified_leavs",
+    "particle": "obsidian:blocks/electrified_leavs"
+  }
+}

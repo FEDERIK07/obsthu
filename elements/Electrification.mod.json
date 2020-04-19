@@ -1,0 +1,33 @@
+{
+  "_fv": 6,
+  "_type": "potion",
+  "definition": {
+    "name": "Electrification",
+    "effectName": "Electrification",
+    "icon": "download_7.png",
+    "color": {
+      "value": -13369345,
+      "falpha": 0.0
+    },
+    "isInstant": true,
+    "isBad": true,
+    "isBenefitical": false,
+    "registerPotionType": true,
+    "curativeItems": [
+      {
+        "value": "Items.MILK_BUCKET"
+      }
+    ],
+    "renderStatusInInventory": true,
+    "renderStatusInHUD": true,
+    "onStarted": {
+      "name": "ElectrificationPotionStartedapplied"
+    },
+    "onActiveTick": {
+      "name": "ElectroOnPotionActiveTick"
+    },
+    "onExpired": {
+      "name": "ElectrificationPotionExpires"
+    }
+  }
+}

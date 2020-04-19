@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "obsidian:items/pickaxe_piece_of_water"
+  }
+}

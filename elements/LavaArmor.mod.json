@@ -1,0 +1,54 @@
+{
+  "_fv": 6,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "lava_elmet",
+    "enableBody": true,
+    "textureBody": "lava_body",
+    "enableLeggings": true,
+    "textureLeggings": "lava__leggins",
+    "enableBoots": true,
+    "textureBoots": "lava_boots",
+    "onHelmetTick": {
+      "name": "LavaArmorHelmetTickEvent"
+    },
+    "creativeTab": {
+      "value": "CUSTOM:Lava"
+    },
+    "armorTextureFile": "lava",
+    "helmetName": "Lava Armor Helmet",
+    "bodyName": "Lava Armor Body",
+    "leggingsName": "Lava Armor Leggings",
+    "bootsName": "Lava Armor Boots",
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 27,
+    "damageValueHelmet": 4,
+    "damageValueBody": 7,
+    "damageValueLeggings": 6,
+    "damageValueBoots": 4,
+    "enchantability": 10,
+    "toughness": 0.0,
+    "equipSound": {
+      "value": "CUSTOM:lava"
+    },
+    "repairItems": [
+      {
+        "value": "Items.LAVA_BUCKET"
+      }
+    ]
+  }
+}

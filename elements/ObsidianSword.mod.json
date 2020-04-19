@@ -1,0 +1,23 @@
+{
+  "_fv": 6,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "obsidian_sword",
+    "customModelName": "Normal",
+    "name": "Obsidian Sword",
+    "creativeTab": {
+      "value": "CUSTOM:Obsidian"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 10,
+    "efficiency": 200.0,
+    "attackSpeed": 3.0,
+    "enchantability": 300,
+    "damageVsEntity": 1000.0,
+    "usageCount": 0,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": []
+  }
+}

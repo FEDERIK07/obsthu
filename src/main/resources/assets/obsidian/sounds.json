@@ -1,0 +1,20 @@
+{
+  "water": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "obsidian:water",
+        "stream": false
+      }
+    ]
+  },
+  "lava": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "obsidian:lava",
+        "stream": false
+      }
+    ]
+  }
+}

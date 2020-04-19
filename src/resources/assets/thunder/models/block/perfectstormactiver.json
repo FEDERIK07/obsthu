@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "thunder:blocks/xvvvvvvvvvxv",
+    "up": "thunder:blocks/xvvvvvvvvvxv",
+    "north": "thunder:blocks/xvvvvvvvvvxv",
+    "east": "thunder:blocks/xvvvvvvvvvxv",
+    "south": "thunder:blocks/xvvvvvvvvvxv",
+    "west": "thunder:blocks/xvvvvvvvvvxv",
+    "particle": "thunder:blocks/xvvvvvvvvvxv"
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "_fv": 6,
+  "_type": "biome",
+  "definition": {
+    "name": "Extream Earth",
+    "groundBlock": {
+      "value": "CUSTOM:VolcanicBlock"
+    },
+    "undergroundBlock": {
+      "value": "Blocks.LAVA"
+    },
+    "generateLakes": false,
+    "treeType": 0,
+    "vanillaTreeType": "Default",
+    "minHeight": 7,
+    "spawnVines": false,
+    "treeVines": {
+      "value": ""
+    },
+    "treeStem": {
+      "value": ""
+    },
+    "treeBranch": {
+      "value": ""
+    },
+    "treeFruits": {
+      "value": ""
+    },
+    "customColors": true,
+    "airColor": {
+      "value": -13210,
+      "falpha": 0.0
+    },
+    "grassColor": {
+      "value": -6711040,
+      "falpha": 0.0
+    },
+    "waterColor": {
+      "value": -39424,
+      "falpha": 0.0
+    },
+    "treesPerChunk": 0,
+    "grassPerChunk": 0,
+    "flowersPerChunk": 0,
+    "mushroomsPerChunk": 0,
+    "bigMushroomsChunk": 0,
+    "sandPathcesPerChunk": 0,
+    "gravelPatchesPerChunk": 0,
+    "reedsPerChunk": 0,
+    "cactiPerChunk": 0,
+    "deadBushesPerChunk": 0,
+    "rainingPossibility": 0.0,
+    "temperature": 2.0,
+    "baseHeight": 0.8,
+    "heightVariation": 0.4,
+    "spawnBiome": true,
+    "biomeWeight": 70,
+    "biomeType": "DESERT",
+    "biomeCategory": "EXTREME_HILLS",
+    "parent": {
+      "value": "No parent"
+    },
+    "biomeDictionaryTypes": [
+      "MOUNTAIN"
+    ],
+    "spawnList": [
+      {
+        "value": "EntityBlaze"
+      },
+      {
+        "value": "EntityEvoker"
+      },
+      {
+        "value": "EntityMagmaCube"
+      },
+      {
+        "value": "EntityWitherSkeleton"
+      }
+    ]
+  }
+}

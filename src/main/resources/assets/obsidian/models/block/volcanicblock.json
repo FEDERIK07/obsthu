@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "obsidian:blocks/volcanic_block",
+    "up": "obsidian:blocks/volcanic_block",
+    "north": "obsidian:blocks/volcanic_block",
+    "east": "obsidian:blocks/volcanic_block",
+    "south": "obsidian:blocks/volcanic_block",
+    "west": "obsidian:blocks/volcanic_block",
+    "particle": "obsidian:blocks/volcanic_block"
+  }
+}

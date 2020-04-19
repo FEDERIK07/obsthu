@@ -1,0 +1,39 @@
+{
+  "group": "obsidian",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "obsidian:thundershard"
+    },
+    "2": {
+      "item": "obsidian:thundershard"
+    },
+    "3": {
+      "item": "obsidian:thundershard"
+    },
+    "4": {
+      "item": "obsidian:thundershard"
+    },
+    "5": {
+      "item": "obsidian:thundershard"
+    },
+    "6": {
+      "item": "obsidian:thundershard"
+    },
+    "7": {
+      "item": "obsidian:thundershard"
+    },
+    "8": {
+      "item": "obsidian:thundershard"
+    }
+  },
+  "result": {
+    "item": "obsidian:thundersarmorbody",
+    "count": 1
+  }
+}

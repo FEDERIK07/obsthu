@@ -1,0 +1,19 @@
+{
+  "group": "obsidian",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "obsidian:lavasword"
+    },
+    {
+      "item": "obsidian:obsidianingot"
+    },
+    {
+      "item": "obsidian:watersword"
+    }
+  ],
+  "result": {
+    "item": "obsidian:brokenobsidiansword",
+    "count": 1
+  }
+}

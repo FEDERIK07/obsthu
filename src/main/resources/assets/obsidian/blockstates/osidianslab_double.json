@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "variant=default": {
+      "model": "obsidian:osidianslab_double"
+    }
+  }
+}
